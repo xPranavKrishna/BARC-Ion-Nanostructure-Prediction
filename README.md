@@ -17,7 +17,7 @@ The optimized Random Forest model achieved approximately **79% accuracy** on the
 
 ## Internship Certificate
 
-[View Internship Certificate]([YOUR_CERTIFICATE_LINK](https://drive.google.com/file/d/1MSX8H3gbXcQavQRaIeJ16Vr7zL3dkj04/view?usp=sharing))
+📜 [View BARC Internship Certificate](https://drive.google.com/file/d/1MSX8H3gbXcQavQRaIeJ16Vr7zL3dkj04/view?usp=sharing)
 
 ## Data Availability
 
